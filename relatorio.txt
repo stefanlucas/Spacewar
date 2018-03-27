@@ -1,0 +1,16 @@
+/********************************************************************/
+/* Nomes: Camila Naomi Kodaira, 4266602                             */
+/*        Fábio Henrique Kiyoiti dos Santos Tanaka, 9297982         */
+/*        Lucas Stefan Abe, 8531612                                 */
+/********************************************************************/
+
+Parte 4 do projeto de Laboratório de programação
+
+Nesta fase nós realizamos o polimento do jogo base que foi terminado na parte 3.
+Foram adicionados novos menus e a possibilidade do jogador escolher sua própia 
+nave e a fase em que vai jogar.
+Cada fase tem características própias como tamanho e massa do planeta.
+Além disso foram corrigidos alguns erros menores da versão anterior.
+
+Como nesta fase as principais mudanças foram estéticas, as únicas dificuldades
+foram desenhar os menus.
